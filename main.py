@@ -2,7 +2,7 @@ a = 'sk-proj'
 b = '-oR5sgSN3FyqBbEgnzYp5dT6TVPH0yiJj5bDd81DzwxL2NrNB9weRiU4Dqkdy3'
 c = 'Y20IEyJUgwn5PT3BlbkFJoBUjM0Z4ri0azrKQ696NWCDypjdDIzZTDClJ'
 d = '-kwEBWjVlv5XLEnjZ8GV-LN5EuvKkJIBp612kA'
-OPENAI_API_KEY = a++b+c+d
+OPENAI_API_KEY = a+b+c+d
 
 import os
 import streamlit as st
