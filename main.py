@@ -6,7 +6,6 @@ OPENAI_API_KEY = a+b+c+d
 
 import os
 import streamlit as st
-from dotenv import load_dotenv
 import asyncio
 
 
