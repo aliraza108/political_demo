@@ -12,7 +12,7 @@ import asyncio
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 # ✅ Agent SDK imports
-from agents import Agent, FileSearchTool, Runner
+from openai.agents import Agent, FileSearchTool, Runner
 
 # ✅ Define your agent
 agent = Agent(
